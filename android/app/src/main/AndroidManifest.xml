@@ -1,6 +1,7 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <application
-        android:label="generated_color"
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.scale.scalefluttertest">
+   <application
+        android:label="scale3c_flutter_test"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

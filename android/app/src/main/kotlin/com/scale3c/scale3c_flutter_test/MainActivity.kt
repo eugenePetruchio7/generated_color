@@ -1,4 +1,4 @@
-package com.example.generated_color
+package com.scale.scalefluttertest
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
-# generated_color
+# scale3c_flutter_test
 
-Generated Color
+Scale3C Flutter test
 
 ## Getting Started
 
